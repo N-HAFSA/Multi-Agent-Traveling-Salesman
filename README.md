@@ -1,3 +1,3 @@
-pip install pygame 
+pip install pygame  folium geopy
 
 python mail.py
